@@ -1,5 +1,5 @@
 <script type="text/javascript">
-  $.RedBot.registerType('chatbot-discord-node', {
+  RED.nodes.registerType('chatbot-discord-node', {
     category: 'config',
     defaults: {
       botname: {
@@ -143,8 +143,8 @@
 </script>
 
 <script type="text/javascript">
-  $.RedBot.registerType('chatbot-discord-receive', {
-    category: $.RedBot.config.name + ' Platforms',
+  RED.nodes.registerType('chatbot-discord-receive', {
+    category: 'RedBot Platforms',
     color: '#FFCC66',
     defaults: {
       bot: {
@@ -187,8 +187,8 @@
 </script>
 
 <script type="text/javascript">
-  $.RedBot.registerType('chatbot-discord-send', {
-    category: $.RedBot.config.name + ' Platforms',
+  RED.nodes.registerType('chatbot-discord-send', {
+    category: 'RedBot Platforms',
     color: '#FFCC66',
     defaults: {
       bot: {

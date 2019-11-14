@@ -276,5 +276,4 @@ module.exports = function(RED) {
     });
   }
   RED.nodes.registerType('chatbot-discord-send', DiscordOutNode);
-  console.log('end adding discord')
 };
