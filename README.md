@@ -1,14 +1,10 @@
+[**RedBot**](https://github.com/guidone/node-red-contrib-chatbot) nodes for **Discord** platform. With **RedBot** and **Node-RED** you can  visually build a full featured chat bots for multiple platforms. 
+~~Almost~~ no coding skills required.
 
-
-With **RedBot** you can visually build a full featured chat bot for **Telegram**, **Facebook Messenger**, **Viber**, **Twilio** and **Slack** with Node-RED. ~~Almost~~ no coding skills required.
-
-![Release](https://img.shields.io/npm/v/node-red-contrib-chatbot.svg)
-![npm](https://img.shields.io/npm/dm/node-red-contrib-chatbot.svg)
-![Build](https://travis-ci.org/guidone/node-red-contrib-chatbot.svg?branch=master)
+![Release](https://img.shields.io/npm/v/node-red-contrib-chatbot-discord.svg)
+![npm](https://img.shields.io/npm/dm/node-red-contrib-chatbot-discord.svg)
 [![Slack](https://img.shields.io/badge/Join-Slack%20group-orange.svg)](https://join.slack.com/t/red-bot/shared_invite/enQtMzEyMjM5NDUwNTAwLWZiMWU2OWIzYzBlOGRlZjcwNjFhODcxMTQzMDY4YzVmNjQ1NTdmOWQwOTNkNzk1OWYxYzRlZDgxMTUyMDZiMGQ)
 [![Trello](https://img.shields.io/badge/Join-Trello%20product%20board-blue.svg)](https://trello.com/b/JkrjeswQ)
-
-> Node-RED is a tool for wiring together hardware devices, APIs and online services in new and interesting ways.
 
 ## Installation
 
@@ -32,7 +28,7 @@ Then run
 node-red
 ```
 
-Then follow [this tutorial](https://github.com/guidone/node-red-contrib-chatbot/wiki/Discord-Receiver-node) to create your first chat bot with **Discor**.
+Then follow [this tutorial](https://github.com/guidone/node-red-contrib-chatbot/wiki/Discord-Receiver-node) to create your first chat bot with **Discord**.
 
 ## The MIT License
 Permission is hereby granted, free of charge, to any person obtaining a copy
